@@ -1,3 +1,4 @@
 .idea/
 venv/
 analysis/*.csv
+.DS_Store
